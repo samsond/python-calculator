@@ -22,7 +22,7 @@ A simple command-line calculator application written in Python that supports bas
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/[your-username]/python-calculator.git
+git clone https://github.com/samsond/python-calculator.git
 cd python-calculator
 ```
 
